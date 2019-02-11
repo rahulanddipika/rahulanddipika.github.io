@@ -1,7 +1,7 @@
 /*!
  * Project : simply-countdown
  * File : simplyCountdown
- * Date : 27/06/2015
+ * Date : 12/04/2019
  * License : MIT
  * Version : 1.3.2
  * Author : Vincent Loy <vincent.loy1@gmail.com>
